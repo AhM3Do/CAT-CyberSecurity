@@ -14,7 +14,7 @@ Bit++ (it works fine on my compiler but not on Codeforces...I'm using a more rec
 http://codeforces.com/contest/282/submission/70528533
 Football
 http://codeforces.com/contest/96/submission/70530445
-Petya And Strings
+Petya And Strings (I tried various solutions but nothing seem to work)
 https://codeforces.com/contest/112/submission/70748403
 Helpful Maths
 http://codeforces.com/contest/339/submission/70531686
