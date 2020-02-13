@@ -1,0 +1,20 @@
+Watermelon
+http://codeforces.com/problemset/submission/4/70434910
+Way Too Long
+http://codeforces.com/problemset/submission/71/70466733
+Next Round
+http://codeforces.com/contest/158/submission/70494961
+String Task
+http://codeforces.com/contest/118/submission/70509146
+Team
+http://codeforces.com/contest/231/submission/70521436
+Dominoes
+http://codeforces.com/contest/50/submission/70527775
+Bit++ (it works fine on my compiler but not on Codeforces...I'm using a more recent compiler version 3.8)
+http://codeforces.com/contest/282/submission/70528533
+Football
+http://codeforces.com/contest/96/submission/70530445
+Petya And Strings
+https://codeforces.com/contest/112/submission/70748403
+Helpful Maths
+http://codeforces.com/contest/339/submission/70531686
